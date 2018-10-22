@@ -1,0 +1,1 @@
+pyinstaller -F -n DKaffe --noconsole --icon=icon.ico --add-data "icon.ico;icon.ico" main.py
